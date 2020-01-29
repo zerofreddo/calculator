@@ -1,44 +1,38 @@
 # _Calculator_
 
-#### This is Quinn's calculator that i made with the help of Epicodus! August 28nd 2018
+#### This is my calculator that I made with the help of Epicodus! Jan 28th 2020
 
-#### By Quinn Miller
+#### By Ross Beckman
 
 ## Description
 
-This is a calculator i made to test out java script.
+This is a calculator I made to test out java script.
 
 ## Setup/Installation Requirements
 
 * You need a web browser.
-* Any text editor should do if you want to edit my page. i used Atom.
-* This web page depends on the Bootstrap framework, but it's included.
+* Any text editor should do if you want to edit my page. I used Visual Studio.
 * this wep page uses javascript.
 
 ## Known Bugs
-
-Git is funky on my home computer and I was having trouble pushing things to repositories. I got it to work but it says the author of the commit is quinnrobepicodus (the account name) rather than my name (Quinn).
-This is a work in progress, so if you find any bugs please let me know at the email address below.
+none so far.
 
 ## Support and contact details
 
-I'm still learning so feel free to contact me with any suggestions or questions.  
-email: millerquinn66@gmail.com
+I'm still learning but if you can suggest any helpful sites feel free to contact me.
+email: aguywithgames1212@gmail.com
 
 ## Technologies Used
 * Git
 * BASH
-* Atom
 * HTML
-* CSS
-* Bootstrap
 * Github
-* Box model :)
-* javascript
+* JavaScript
+* JSFiddle
 
 ### License
 
-*Copyright (c) 2018 Quinn Miller*
+*Copyright (c) 2020 Ross Beckman*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -58,4 +52,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) 2018 **Quinn Miller**
+Copyright (c) 2020 **Ross Beckman**
